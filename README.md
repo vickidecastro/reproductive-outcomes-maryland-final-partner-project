@@ -7,6 +7,8 @@ It is [known](https://www.ncbi.nlm.nih.gov/books/NBK219236/) that teenage pregna
 
 ## Abstract
 
+This report examines trends in reproductive health in Maryland from 2010 to 2017. The report explores teenage birth rate, access to early prenatal care, and babies with low birth weight as it is known that there can be negative consequences associated with these factors, or a lack thereof. The report identifies three counties for the Maternal and Child Health Bureau to place focus on: Prince George’s, Garrett, and Somerset Counties. Recommendations for public health initiatives in these counties include access to free contraceptives, improved sex and pregnancy education, increased funding for prenatal care centers and transportation to the centers, and partnerships with local county health departments. 
+
 ## Business Question 
 How have teen birth rate, access to early prenatal care, and the number of babies with low birth weight impacted the population of Maryland? How can trends and patterns in these variables inform local and/or state policy?
 
