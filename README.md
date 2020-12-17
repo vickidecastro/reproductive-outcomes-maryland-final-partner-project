@@ -40,7 +40,8 @@ Several counties within Maryland displayed relatively high teen birth rates, hig
 ### **Teen Birth Rate** 
 
 Enter a sentence describing the graphs here:
-put trends analysis graphs here
+![teen_BR_top5](https://user-images.githubusercontent.com/70858878/102546489-b49dca80-4085-11eb-9c94-2395c384a639.png)
+![teen_BR_bot5](https://user-images.githubusercontent.com/70858878/102546539-cb442180-4085-11eb-8841-f9bae7e77e76.png)
 
 Enter a sentence describing the graphs here:
 ![alt_text](change-tbr-big.png) 
@@ -49,7 +50,8 @@ Enter a sentence describing the graphs here:
 ### **Low Birth Weight** 
 
 Enter a sentence describing the graphs here:
-put trends analysis graphs here
+![lbw_top5](https://user-images.githubusercontent.com/70858878/102546683-ffb7dd80-4085-11eb-80a7-328255c0223e.png)
+![lbw_bot5](https://user-images.githubusercontent.com/70858878/102546687-0181a100-4086-11eb-939b-041e356c99b4.png)
 
 Enter a sentence describing the graphs here:
 ![alt_text](change-lbw-big.png) 
@@ -58,7 +60,9 @@ Enter a sentence describing the graphs here:
 ### **Early Prenatal Care** 
 
 Enter a sentence describing the graphs here:
-put trends analysis graphs here
+![pnc_bot5](https://user-images.githubusercontent.com/70858878/102546727-11998080-4086-11eb-9fd5-2d816bbc6728.png)
+![pnc_top5](https://user-images.githubusercontent.com/70858878/102546728-11998080-4086-11eb-99f3-19ee2e9b492d.png)
+
 
 Enter a sentence describing the graphs here:
 ![alt_text](change-epc-big.png) 
