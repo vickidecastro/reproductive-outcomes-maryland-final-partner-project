@@ -29,4 +29,4 @@ How have teen birth rate, access to early prenatal care, and the number of babie
 ## Data Analysis
 1. Trends in the three selected variables: Python/Google Colaboratory
 2. Percent Change in the three selected variables: [Python/Google Colaboratory](https://colab.research.google.com/drive/1QUmTvWJn7qQ4KBY9saS84pE6xG56tdcX#scrollTo=5ecr-_WY-Oec)
-3. Cluster Analysis: Excel (see attached files) 
+3. Cluster Analysis: Excel (see attached files, labeled 'Final project Cluster Analysis') 
