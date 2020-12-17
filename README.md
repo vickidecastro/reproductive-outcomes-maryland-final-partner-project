@@ -41,22 +41,22 @@ Several counties within Maryland displayed relatively high teen birth rates, hig
 
 put trends analysis graphs here
 
-![alt_text](change-tbr-big) 
-![alt_text](change-tbr-small) 
+![alt_text](change-tbr-big.png) 
+![alt_text](change-tbr-small.png) 
 
 **Low Birth Weight** 
 
 put trends analysis graphs here
 
-![alt_text](change-lbw-big) 
-![alt_text](change-lbw-small) 
+![alt_text](change-lbw-big.png) 
+![alt_text](change-lbw-small.png) 
 
 **Early Prenatal Care** 
 
 put trends analysis graphs here
 
-![alt_text](change-epc-big) 
-![alt_text](change-epc-small) 
+![alt_text](change-epc-big.png) 
+![alt_text](change-epc-small.png) 
 
 ## Recommendations 
 1. Free Contraceptives in Public Secondary Schools 
