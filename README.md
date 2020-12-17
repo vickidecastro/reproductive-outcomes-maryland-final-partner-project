@@ -7,7 +7,7 @@ It is [known](https://www.ncbi.nlm.nih.gov/books/NBK219236/) that teenage pregna
 
 ## Abstract
 
-This report examines trends in reproductive health in Maryland from 2010 to 2017. The report explores teenage birth rate, access to early prenatal care, and babies with low birth weight as it is known that there can be negative consequences associated with these factors, or a lack thereof. The report identifies three counties for the Maternal and Child Health Bureau to place focus on: Prince George’s, Garrett, and Somerset Counties. Recommendations for public health initiatives in these counties include access to free contraceptives, improved sex and pregnancy education, increased funding for prenatal care centers and transportation to the centers, and partnerships with local county health departments. 
+This report examines trends in reproductive health in Maryland from 2010 to 2017. The report explores teenage birth rate, access to early prenatal care, and babies with low birth weight as it is known that there can be negative consequences associated with these factors, or a lack thereof. The report identifies three counties for the Maternal and Child Health Bureau of the Maryland Department of Health to place focus on: Prince George’s, Garrett, and Somerset Counties. Public health initiative recommendations for the Bureau to implement for these three ounties include access to free contraceptives, improved sex and pregnancy education, increased funding for prenatal care centers and transportation to the centers, and partnerships with local county health departments. 
 
 ## Business Question 
 How have teen birth rate, access to early prenatal care, and the number of babies with low birth weight impacted the population of Maryland? How can trends and patterns in these variables inform local and/or state policy?
@@ -26,7 +26,43 @@ How have teen birth rate, access to early prenatal care, and the number of babie
       - [SHIP SHIP Early Prenatal Care 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Early-Prenatal-Care-2010-2017/48en-6hyz)
       - [SHIP Babies with Low Birth Weight 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Babies-with-Low-Birth-Weight-2010-2017/cyet-5jd3)
 
-## Data Analysis
+## Data Analysis Methods
 1. Trends in the three selected variables: Python/Google Colaboratory
 2. Percent Change in the three selected variables: [Python/Google Colaboratory](https://colab.research.google.com/drive/1QUmTvWJn7qQ4KBY9saS84pE6xG56tdcX#scrollTo=5ecr-_WY-Oec)
 3. Cluster Analysis: Excel (see attached files, labeled 'Final project Cluster Analysis') 
+
+## Overview of Data Findings 
+
+Several counties within Maryland displayed relatively high teen birth rates, high low birth weight, and low early prenatal care based on the trends, percent change, and cluster analyses, but emphasis for improvement can be placed to Prince George's, Garrett, and Somerset Counties.
+
+## Data Visualizations 
+
+**Teen Birth Rate** 
+
+put trends analysis graphs here
+
+put percent analysis graphs here 
+
+**Low Birth Weight** 
+
+put trends analysis graphs here
+
+put percent analysis graphs here 
+
+**Early Prenatal Care** 
+
+put trends analysis graphs here
+
+put percent analysis graphs here 
+
+## Recommendations 
+1. Free Contraceptives in Public Secondary Schools 
+2. Strengthened Sex & Pregnancy Education 
+3. Increased Funding for Prenatal Care Centers 
+4. Increased Transportation to Prenatal Care Centers 
+5. Partnerships with Local County Health Departments
+
+
+
+
+
