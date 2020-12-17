@@ -5,6 +5,7 @@ According to [March of Dimes](https://www.marchofdimes.org/Peristats/ViewTopic.a
 
 It is [known](https://www.ncbi.nlm.nih.gov/books/NBK219236/) that teenage pregnancy is linked to many adverse outcomes for both the mother and child, including low birth weight, health problems from poor perinatal outcomes, increased risk of perinatal death, and poor academic achievement in the child. Babies born with low birth weight have a [higher risk](https://www.marchofdimes.org/complications/low-birthweight.aspx.) of heart disease, diabetes, high blood presusure, intellectual and developmental disabilities, obesity and metabolic syndrome. [Research](https://www.womenshealth.gov/a-z-topics/prenatal-care) has also shown that access to prenatal care is very important for a healthy pregnancy, and the babies of mothers who do not have access to prenatal care are three times more likely to have low birth weight and five times more likely to die. 
 
+## Abstract
 
 ## Business Question 
 How have teen birth rate, access to early prenatal care, and the number of babies with low birth weight impacted the population of Maryland? How can trends and patterns in these variables inform local and/or state policy?
