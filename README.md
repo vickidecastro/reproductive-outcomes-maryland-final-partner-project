@@ -39,26 +39,32 @@ Several counties within Maryland displayed relatively high teen birth rates, hig
 
 **Teen Birth Rate** 
 
+Enter a sentence describing the graphs here:
 put trends analysis graphs here
 
+Enter a sentence describing the graphs here:
 ![alt_text](change-tbr-big.png) 
 ![alt_text](change-tbr-small.png) 
 
 **Low Birth Weight** 
 
+Enter a sentence describing the graphs here:
 put trends analysis graphs here
 
+Enter a sentence describing the graphs here:
 ![alt_text](change-lbw-big.png) 
 ![alt_text](change-lbw-small.png) 
 
 **Early Prenatal Care** 
 
+Enter a sentence describing the graphs here:
 put trends analysis graphs here
 
+Enter a sentence describing the graphs here:
 ![alt_text](change-epc-big.png) 
 ![alt_text](change-epc-small.png) 
 
-## Recommendations 
+## Recommendations for Maternal and Child Health Bureau
 1. Free Contraceptives in Public Secondary Schools 
 2. Strengthened Sex & Pregnancy Education 
 3. Increased Funding for Prenatal Care Centers 
