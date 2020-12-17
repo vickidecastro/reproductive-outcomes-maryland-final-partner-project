@@ -12,6 +12,11 @@ This report examines trends in reproductive health in Maryland from 2010 to 2017
 ## Business Question 
 How have teen birth rate, access to early prenatal care, and the number of babies with low birth weight impacted the population of Maryland? How can trends and patterns in these variables inform local and/or state policy?
 
+## Metrics 
+1. Teen Birth Rate 
+2. Low Birth Weight
+3. Early Prenatal Care 
+
 ## Data Sources
  - We used data from the [Maryland Open Data Portal](https://opendata.maryland.gov/) to examine these three variables
    - We used health data from the SHIP program-- which falls under Human and Health Services-- because it was fairly consistent across variables
@@ -20,3 +25,8 @@ How have teen birth rate, access to early prenatal care, and the number of babie
       - [SHIP Teen Birth Rate from 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Teen-Birth-Rate-2010-2017/t8wg-hb7j)
       - [SHIP SHIP Early Prenatal Care 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Early-Prenatal-Care-2010-2017/48en-6hyz)
       - [SHIP Babies with Low Birth Weight 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Babies-with-Low-Birth-Weight-2010-2017/cyet-5jd3)
+
+## Data Analysis
+1. Trends in the three selected variables: Python/Google Colaboratory
+2. Percent Change in the three selected variables: [Python/Google Colaboratory](https://colab.research.google.com/drive/1QUmTvWJn7qQ4KBY9saS84pE6xG56tdcX#scrollTo=5ecr-_WY-Oec)
+3. Cluster Analysis: Excel (see attached files) 
