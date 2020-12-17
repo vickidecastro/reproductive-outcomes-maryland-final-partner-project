@@ -37,7 +37,7 @@ Several counties within Maryland displayed relatively high teen birth rates, hig
 
 ## Data Visualizations 
 
-**Teen Birth Rate** 
+### **Teen Birth Rate** 
 
 Enter a sentence describing the graphs here:
 put trends analysis graphs here
@@ -46,7 +46,7 @@ Enter a sentence describing the graphs here:
 ![alt_text](change-tbr-big.png) 
 ![alt_text](change-tbr-small.png) 
 
-**Low Birth Weight** 
+### **Low Birth Weight** 
 
 Enter a sentence describing the graphs here:
 put trends analysis graphs here
@@ -55,7 +55,7 @@ Enter a sentence describing the graphs here:
 ![alt_text](change-lbw-big.png) 
 ![alt_text](change-lbw-small.png) 
 
-**Early Prenatal Care** 
+### **Early Prenatal Care** 
 
 Enter a sentence describing the graphs here:
 put trends analysis graphs here
