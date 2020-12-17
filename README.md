@@ -27,8 +27,8 @@ How have teen birth rate, access to early prenatal care, and the number of babie
       - [SHIP Babies with Low Birth Weight 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Babies-with-Low-Birth-Weight-2010-2017/cyet-5jd3)
 
 ## Data Analysis Methods
-1. Trends in the three selected variables: Python/Google Colaboratory
-2. Percent Change in the three selected variables: [Python/Google Colaboratory](https://colab.research.google.com/drive/1QUmTvWJn7qQ4KBY9saS84pE6xG56tdcX#scrollTo=5ecr-_WY-Oec)
+1. Trends in the three selected variables: [Python/Google Colaboratory](https://colab.research.google.com/drive/1rCYgMpQ4OhVQOAhwA8zNrKPrlClOcgUA?usp=sharing)
+2. Percent Change in the three selected variables: [Python/Google Colaboratory](https://colab.research.google.com/drive/1QUmTvWJn7qQ4KBY9saS84pE6xG56tdcX?usp=sharing)
 3. Cluster Analysis: Excel (see attached files, labeled 'Final project Cluster Analysis') 
 
 ## Overview of Data Findings 
