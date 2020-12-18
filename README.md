@@ -45,10 +45,12 @@ Teen birth rate has declined significantly in the five largest counties in Maryl
 ![teen_BR_bot5](https://user-images.githubusercontent.com/70858878/102546539-cb442180-4085-11eb-8841-f9bae7e77e76.png)
 There was a lot of variability over the years in teen birth rate for the five smallest counties in Maryland. All five counties ended with a lower birth rate in 2017 compared to when the study began collecting data in 2010. Dorchester County had the highest teen birth rate, at 55.1 in 2010 and 21.4 in 2017. In 2010, Caroline County had the second highest birth rate (41.4), then Somerset County (31.6), then Garrett County (30.7), and finally Kent County at 15.5. From 2010 to 2014, there did not appear to be an overarching trend as teen birth rate fluctuated considerably for all five counties. Something to note here is that Somerset County appeared to have a large spike in teen birth rate from 2011 at a rate of 24.4 to 2013 at 39.9. All five counties presented a spike in 2015, with a rate of 50.7 in Dorchester, 31.8 in Garrett, 27.0 in Caroline, 22.5 in Somerset, and 18.2 in Kent. In 2017, all counties except Kent reached their lowest point, at 21.4 for Dorchester, 17.9 for Garrett, 13.0 for Somerset, and 8.5 for Kent. 
 
-
-Enter a sentence describing the graphs here:
 ![alt_text](change-tbr-big.png) 
 ![alt_text](change-tbr-small.png) 
+
+These trends can be seen more easily through these percent change visualizations. These charts show the change in teenage birth rates for the five biggest and five smallest counties from 2010 to 2017. All ten counties showed at least a 0.6% decrease in teen birth rates from 2010 to 2017, indicating progress for this particular health outcome. Caroline and Dorchester Counties, which are both among the smallest five, displayed the most decrease, with approximately 1.6% of a drop. The next highest decrease was 1.2%, displayed by Anne Arundel County, which is one of the biggest five counties. 
+
+Although all the counties’ teen birth rates decreased from 2010 to 2017, the Maternal and Child Health Bureau should still focus on a few counties with the least amount of reduction in rates. These would be Prince George’s County (~0.7% decrease), Garrett County (~0.7% decrease), and Kent County (~0.8% decrease). 
 
 ### **Low Birth Weight** 
 
@@ -58,9 +60,10 @@ The percentage of babies with low birth weight had less variability for the five
 ![lbw_bot5](https://user-images.githubusercontent.com/70858878/102546687-0181a100-4086-11eb-939b-041e356c99b4.png)
 There was much more variability in babies with low birth weight for the five smallest counties in Maryland. In 2010, the percentage of babies with low birth weight was 11.2% for Dorchester County, 10.8% for Kent County, 8.6% for Caroline County, 7.9% for Garrett County, and 7.4% for Somerset County. In 2011, Somerset County appeared to have a small spike at 10.1%; Somerset County had its lowest percentage in 2013 at 5.3% but then had its lowest percentage two years later at 8.6%. In 2012, Kent experienced a large spike in the babies with low birth weight at 16.9%. In 2017, the percentage of babies with low birth weight was higher than from when the study started for two counties: Somerset (13.2%) and Garrett (11.0%). The percentage of babies with low birth weight was lower than from when the study started for the remaining three counties: 10.4% for Kent, 7.3% for Dorchester, and 7.4% for Caroline. 
 
-Enter a sentence describing the graphs here:
 ![alt_text](change-lbw-big.png) 
 ![alt_text](change-lbw-small.png) 
+
+These percent change charts visualize this information more clearly. Four out of the ten counties experienced an increase in low birth weight: Baltimore City (+0.06%), Baltimore County  (+0.12%), Garrett County (+0.3%), and Somerset County (+0.4%). It is interesting that it was the smaller counties, Garrett and Somerset, that displayed a larger increase in low birth weight, rather than the larger, more metropolitan areas like Baltimore City and Baltimore County. This suggests that the Maryland Department of Health should focus on Garrett and Somerset Counties when developing solutions for this particular metric.
 
 ### **Early Prenatal Care** 
 ![pnc_top5](https://user-images.githubusercontent.com/70858878/102546728-11998080-4086-11eb-99f3-19ee2e9b492d.png)
@@ -69,10 +72,10 @@ Access to early prenatal care varied from county to county in the five largest c
 ![pnc_bot5](https://user-images.githubusercontent.com/70858878/102546727-11998080-4086-11eb-9fd5-2d816bbc6728.png)
 Access to early prenatal care stayed relatively high for the five smallest counties in Maryland. In 2010, access to early prenatal care was 82.1% for Garrett County, 77.3% for Kent County, 75% for Caroline County, 73.6% for Somerset County, and 73.5% for Dorchester County. Access increased and decreased between 2010 and 2017, but overall, the percentages did not change very much for all five counties. However, Kent did experience a drop in access in both 2013 (72.7%) and 2016 (72.9%), before eventually reaching 80.3% in 2017. In 2017, access to early prenatal care was 80.3% for Kent County, 78.9% for Garrett County, 78.4% in Dorchester County, 76.4% in Somerset County, and 71.3% in Caroline County. 
 
-
-Enter a sentence describing the graphs here:
 ![alt_text](change-epc-big.png) 
 ![alt_text](change-epc-small.png) 
+
+Looking at the percent change visualizations, it is clear that most of the counties improved their prenatal care services, with seven out of the ten counties having a positive percent change. However, the change was not very large; all seven counties showed less than 0.1% of a change. This suggests that even though the counties had an improvement, they still have more to work to do. While it is still important that they continue to address the issue, the three counties that showed a decrease in early prenatal care (Anne Arundel, Caroline, and Garrett) require the most attention. Caroline and Garrett Counties (among the five smallest counties) decreased by approximately 0.04%, while Anne Arundel County’s prenatal care decreased as much as 0.1%. 
 
 ## Recommendations for Maternal and Child Health Bureau
 1. Free Contraceptives in Public Secondary Schools 
